@@ -1,4 +1,4 @@
-package com.flyweight.demo;
+package com.designpattern.demo;
 
 public class Rectangle implements Shape {
 	private String color;
