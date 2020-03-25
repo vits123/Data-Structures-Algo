@@ -56,7 +56,6 @@ public class LongestSubStr {
     int len = lengthOfLongestSubString("pwwkew");
     System.out.println("Out = "+len);
 
-
   }
 
 }
